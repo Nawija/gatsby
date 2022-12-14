@@ -12,7 +12,7 @@ html{
 main{
 }
 body{
-    font-family: 'Times New Roman', Times;
+    font-family: 'Courier New', Courier, monospace;
     scroll-behavior: smooth;    
 }
 button{
